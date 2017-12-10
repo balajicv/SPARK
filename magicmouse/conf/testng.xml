@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAll">
+
+	<listeners>
+        <listener class-name="ethoca.challenge.magicmouse.testng.PurchaseListener" />
+    </listeners>
+	<test name="order">
+		<classes>
+			<class name="ethoca.challenge.magicmouse.testng.MagicMousePurchase" />
+		</classes>
+	</test>
+</suite>

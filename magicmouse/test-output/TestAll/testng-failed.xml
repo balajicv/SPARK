@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [TestAll]">
+  <listeners>
+    <listener class-name="ethoca.challenge.magicmouse.testng.PurchaseListener"/>
+  </listeners>
+  <test name="order(failed)">
+    <classes>
+      <class name="ethoca.challenge.magicmouse.testng.MagicMousePurchase">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="loadUpStep7"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- ethoca.challenge.magicmouse.testng.MagicMousePurchase -->
+    </classes>
+  </test> <!-- order(failed) -->
+</suite> <!-- Failed suite [TestAll] -->

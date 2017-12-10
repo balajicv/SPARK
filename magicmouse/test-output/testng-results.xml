@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="72582" started-at="2017-12-10T19:19:48Z" finished-at="2017-12-10T19:21:01Z">
+    <groups>
+    </groups>
+    <test name="order" duration-ms="72582" started-at="2017-12-10T19:19:48Z" finished-at="2017-12-10T19:21:01Z">
+      <class name="ethoca.challenge.magicmouse.testng.MagicMousePurchase">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2017-12-10T14:19:48Z" finished-at="2017-12-10T14:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeTest" is-config="true" duration-ms="8414" started-at="2017-12-10T14:19:48Z" finished-at="2017-12-10T14:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-12-10T14:19:57Z" finished-at="2017-12-10T14:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:19:57Z" finished-at="2017-12-10T14:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadUpStep1()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep1" duration-ms="5450" started-at="2017-12-10T14:19:57Z" finished-at="2017-12-10T14:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:02Z" finished-at="2017-12-10T14:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="loadUpStep2()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep2" duration-ms="9504" started-at="2017-12-10T14:20:02Z" finished-at="2017-12-10T14:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:02Z" finished-at="2017-12-10T14:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-12-10T14:20:12Z" finished-at="2017-12-10T14:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:12Z" finished-at="2017-12-10T14:20:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadUpStep3()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep3" duration-ms="8745" started-at="2017-12-10T14:20:12Z" finished-at="2017-12-10T14:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:20Z" finished-at="2017-12-10T14:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-12-10T14:20:20Z" finished-at="2017-12-10T14:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadUpStep4()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep4" duration-ms="12154" started-at="2017-12-10T14:20:20Z" finished-at="2017-12-10T14:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep4 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-12-10T14:20:32Z" finished-at="2017-12-10T14:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:32Z" finished-at="2017-12-10T14:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadUpStep5()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep5" duration-ms="2219" started-at="2017-12-10T14:20:32Z" finished-at="2017-12-10T14:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep5 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:35Z" finished-at="2017-12-10T14:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:35Z" finished-at="2017-12-10T14:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loadUpStep6()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep6" duration-ms="23554" started-at="2017-12-10T14:20:35Z" finished-at="2017-12-10T14:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep6 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-12-10T14:20:58Z" finished-at="2017-12-10T14:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:20:58Z" finished-at="2017-12-10T14:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="loadUpStep7()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="loadUpStep7" duration-ms="2499" started-at="2017-12-10T14:20:58Z" finished-at="2017-12-10T14:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUpStep7 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-12-10T14:21:01Z" finished-at="2017-12-10T14:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:ethoca.challenge.magicmouse.testng.MagicMousePurchase@6950ed69]" name="afterSuite" is-config="true" duration-ms="10058" started-at="2017-12-10T14:21:01Z" finished-at="2017-12-10T14:21:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ethoca.challenge.magicmouse.testng.MagicMousePurchase -->
+    </test> <!-- order -->
+  </suite> <!-- TestAll -->
+</testng-results>
